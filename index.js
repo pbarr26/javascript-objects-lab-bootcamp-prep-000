@@ -14,5 +14,5 @@ function deleteFromObjectByKey(object, key) {
   return object
 }
 
-//  1) Objects deleteFromObjectByKey(object, key) 
+//  1) Objects deleteFromObjectByKey(object, key)
 //deletes `key` from a clone of object and returns the new object (it is non-destructive):
